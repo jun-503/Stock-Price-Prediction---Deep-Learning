@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import json
 
 def compare_models():
-    """Compare different model versions and their performance"""
+    """Compare different model versions and their performances"""
     
     # Load metrics from different models (if available)
     metrics_comparison = {
